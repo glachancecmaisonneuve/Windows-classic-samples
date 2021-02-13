@@ -10,8 +10,8 @@
     <CodeAnalysisRuleSet>$(SolutionDir)ruleset.ruleset</CodeAnalysisRuleSet>
     <OutDir>$([System.IO.Path]::GetDirectoryName($(DirectoryBuildTargetsPath))))\$(Configuration)\</OutDir>
     <IntDir>$(SolutionDir)$(Platform)\$(ProjectName)\$(Configuration)\</IntDir>
-    <PlatformToolset>v141</PlatformToolset>
-    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+    <PlatformToolset>v142</PlatformToolset>
+    <WindowsTargetPlatformVersion>10.0.18362.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   
   <ItemDefinitionGroup>
